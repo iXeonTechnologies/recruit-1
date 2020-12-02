@@ -7,20 +7,20 @@ This tech test will help us evaluate your skills.
 
 ##Instructions
 --------------------
-There is no right or wrong way of completing this test.
-Your solution may be as simple or complex you like but please ensure you write enough code for us to judge your ability, not the ability of a framework.
-You may use any technologies you need and/or require, but please justify your choices in your closing comments.
+There is no right or wrong way of completing this test.<br/> 
+Your solution may be as simple or complex you like but please ensure you write enough code for us to judge your ability, not the ability of a framework. <br/>
+You may use any technologies you need and/or require, but please justify your choices in your closing comments.<br/>
 
 - Fork the repository to check in your code. https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo
 - Please work out of the src directory as your root.
 - We encourge you to frequently commit into source code, it will help us see you work approach.
 - Once you have completed your tech test, please fill out the NOTES.md with any closing comments you would like to add.
-- If you use any of the following, or similar, technologies and/or tools, then please be sure to include instructions on getting your solution running:
-composer
-bower
-npm
-junit
-phpunit
+- If you use any of the following, or similar, technologies and/or tools, then please be sure to include instructions on getting your solution running:  
+composer  
+bower  
+npm  
+junit  
+phpunit  
 
 
 The Test
@@ -36,14 +36,14 @@ a.	Add/Remove/Edit cars <br/>
 b.	Broadcast message to users who logged in to inform them about any maintenance event. <br/>
 
 Important Note: 
-1)	Other 3rd party user can connect to your service/REST API to query for car rented. For simplicity, no password/security is required.
-2)	Your solution should be ported easily to motorbike or bicycle rental business.
+1)	Other 3rd party user can connect to your service/REST API to query for car rented. For simplicity, no password/security is required. <br/>
+2)	Your solution should be ported easily to motorbike or bicycle rental business. <br/>
 
-The following are the technical specifications:
-a)	You can use any technologies, it will not affect your assessment score. We prefer .NET/ Java stack.
-b)	You are free to design your own GUI.
-c)	You are not required to save user input into persistence storage. 
-d)	You can add additional features to the site.
+The following are the technical specifications: <br/>
+a)	You can use any technologies, it will not affect your assessment score. We prefer .NET/ Java stack. <br/>
+b)	You are free to design your own GUI. <br/>
+c)	You are not required to save user input into persistence storage. <br/>
+d)	You can add additional features to the site. <br/>
 
 
 ### Remember, there is no right or wrong way to complete this test, so the above features are not necessarily required.
